@@ -1,5 +1,5 @@
 # 💫 About Me:
-.NET Software Engineer<br>Embedded Software
+.NET & Embedded Software Engineering
 
 
 ## 🌐 Socials:
