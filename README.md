@@ -14,9 +14,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=1cue-ldocarmo&limit=5&theme=matrix&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=1cue-ldocarmo&icon=2&color=1)](https://visitcount.itsvg.in)
 
